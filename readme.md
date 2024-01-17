@@ -1,4 +1,4 @@
-# projeto de automação de testes inteiramente em robot framework utilizando a browser library.
+# Automation project, completely in RobotFramwork, using the browser library.
 
 
 library browser (playright under the cloths)

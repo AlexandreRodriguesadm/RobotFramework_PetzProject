@@ -4,3 +4,8 @@ __pycache__
 CONTRIBUTING.md
 Makefile
 README2.md
+browser
+info
+objects
+hooks
+.gitignore

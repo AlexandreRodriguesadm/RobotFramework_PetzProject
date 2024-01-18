@@ -17,8 +17,6 @@ py run.py -cart-web
 
 py run.py -login-web
 
-py run.py -register-web
-
 py run.py -search-web
 
 Thanks for the support, this project haas in progress.
